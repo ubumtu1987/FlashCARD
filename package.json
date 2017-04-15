@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubumtu1987/FlashCARD.git"
+  },
+  "keywords": [
+    "any",
+    "keys"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubumtu1987/FlashCARD/issues"
+  },
+  "homepage": "https://github.com/ubumtu1987/FlashCARD#readme"
+}
